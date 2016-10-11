@@ -1,5 +1,7 @@
 # Q2N64 -> PC
 The first planet (4 maps) from the Nintendo 64 version of Quake 2 ported to PC
+This content can also be found at ModDB here: http://www.moddb.com/mods/quake-2-n64-pc-1st-planet
+
 
 THIS IS A COPY OF THE README FILE INCLUDED IN THE ZIP DISTRIBUTION:
 
