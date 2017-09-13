@@ -2,6 +2,8 @@
 The first planet (4 maps) from the Nintendo 64 version of Quake 2 ported to PC<br>
 This content can also be found at ModDB here: http://www.moddb.com/mods/quake-2-n64-pc-1st-planet
 
+Two multiplayer maps are included as well, War Room and Corridors. Every map, except the last one, was made with QuArK. Corridors was made with JACK. It is complete, but has no texture or lighting work.
+
 
 THIS IS A COPY OF THE README FILE INCLUDED IN THE ZIP DISTRIBUTION:
 
